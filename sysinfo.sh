@@ -8,3 +8,5 @@ echo Redhat版本：`cat /etc/redhat-release`;
 echo 内网地址：`ip addr | grep "inet" | awk '{print $2}' | grep -v 127.0.0.1`;
 echo 外网IP地址：`curl -s ip.sb`
 echo ' ';echo ' ';echo ' ';
+
+
