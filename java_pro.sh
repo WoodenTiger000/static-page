@@ -1,0 +1,1 @@
+echo ""; echo "";ps -ef | grep java | grep -v color=auto | cut -c-180;echo ""; echo "";
